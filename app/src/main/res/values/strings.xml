@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Traducteur Langue des Signes</string>
+    <string name="created_by">Créé par Saïd_ahriken</string>
+    <string name="sign_to_text">Langue des signes vers texte</string>
+    <string name="voice_to_sign">Voix vers langue des signes</string>
+    <string name="camera_permission_required">Permission de la caméra requise</string>
+    <string name="start_camera">Démarrer la caméra</string>
+    <string name="start_voice">Parlez maintenant</string>
+    <string name="enter_text">Appuyez pour parler</string>
+</resources>

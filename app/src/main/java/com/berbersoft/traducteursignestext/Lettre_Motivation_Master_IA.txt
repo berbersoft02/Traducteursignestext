@@ -1,0 +1,39 @@
+LETTRE DE MOTIVATION
+Candidature au Master Intelligence Artificielle
+
+Madame, Monsieur,
+
+Diplômé d'un Master 2 en Électronique des Systèmes Embarqués de l'Université Mouloud Mammeri de Tizi-Ouzou (UMMTO), je souhaite vivement intégrer votre formation en Intelligence Artificielle afin de compléter mon parcours académique et développer mes compétences dans ce domaine en pleine expansion.
+
+Mon parcours académique, allant de la Licence en Électronique au Master 2 en Électronique des Systèmes Intégrés à l'UMMTO, m'a permis d'acquérir une solide base technique en systèmes embarqués, microcontrôleurs, et développement d'applications. J'ai notamment développé plusieurs projets significatifs, dont une station météorologique basée sur ESP32 avec interface web, et un système de régulation de vitesse de moteur utilisant Arduino, qui m'ont permis de maîtriser des technologies variées allant du matériel embarqué au développement logiciel.
+
+Mon choix pour l'Intelligence Artificielle n'est pas fortuit. Il découle directement de mon expérience lors de la réalisation de mon Projet de Fin d'Études (PFE), qui m'a révélé l'immense potentiel de l'IA et ma passion pour ce domaine. J'ai développé une application mobile Android de traduction de la langue des signes en texte, utilisant des technologies d'intelligence artificielle avancées telles que MediaPipe de Google et ML Kit pour la reconnaissance de gestes en temps réel.
+
+Ce projet m'a permis de mettre en pratique des concepts fondamentaux de l'IA : le traitement d'images, la reconnaissance de patterns, l'apprentissage automatique avec des modèles pré-entraînés, ainsi que l'optimisation de modèles pour des systèmes embarqués. J'ai notamment travaillé sur la détection de gestes statiques et dynamiques, l'analyse de séquences temporelles pour reconnaître des mouvements complexes, et l'implémentation d'algorithmes de filtrage et de validation pour améliorer la précision de la reconnaissance.
+
+Cette expérience pratique m'a fait prendre conscience que l'électronique des systèmes embarqués et l'intelligence artificielle sont deux domaines complémentaires et indissociables. Les systèmes embarqués modernes nécessitent de plus en plus l'intégration de capacités d'IA pour le traitement en temps réel, l'optimisation des ressources, et l'adaptation aux contraintes matérielles. Mon parcours en électronique m'a doté d'une solide compréhension des contraintes matérielles, de l'optimisation des performances, et de l'implémentation efficace d'algorithmes sur des plateformes limitées en ressources.
+
+Cependant, je ressens le besoin d'approfondir mes connaissances théoriques et pratiques en intelligence artificielle. Je souhaite maîtriser les fondements mathématiques de l'apprentissage automatique, les architectures de réseaux de neurones profonds, les techniques d'optimisation de modèles, ainsi que les méthodes avancées de traitement du signal et de la vision par ordinateur. Votre formation en Master IA me permettrait d'acquérir ces compétences essentielles tout en conservant la perspective pratique que j'ai développée en systèmes embarqués.
+
+Mon projet de PFE, intitulé "Conception et mise en œuvre d'un système embarqué de traduction de la langue des signes et de reconnaissance gestuelle", a également renforcé ma conviction que l'IA peut avoir un impact social significatif. L'application Android que j'ai développée intègre un modèle d'intelligence artificielle personnalisé et entraîné pour la détection et la reconnaissance des gestes en langue des signes, ainsi que pour la traduction en temps réel. Ce projet vise à faciliter la communication pour les personnes malentendantes, démontrant ainsi le potentiel de l'IA pour résoudre des problèmes concrets et améliorer l'accessibilité. Je souhaite continuer à travailler sur des projets qui allient innovation technologique et utilité sociale.
+
+Mes compétences techniques, acquises au fil de mes projets, incluent la maîtrise de langages de programmation tels que C++, Python, Java et Kotlin pour le développement d'applications Android, ainsi que des outils de simulation et de conception comme MATLAB/Simulink, PROTEUS, et VHDL. Cette polyvalence technique me permettra d'aborder les défis de l'IA avec une approche pragmatique et orientée résultats.
+
+Votre Master en Intelligence Artificielle représente pour moi l'opportunité idéale de :
+- Acquérir une expertise approfondie en apprentissage automatique et deep learning
+- Comprendre les fondements théoriques et mathématiques de l'IA
+- Maîtriser les outils et frameworks modernes de l'IA
+- Développer des projets innovants combinant IA et systèmes embarqués
+- Contribuer à la recherche et au développement dans ce domaine
+
+Mon profil, alliant compétences en électronique embarquée et expérience pratique en IA, me permettra d'apporter une perspective unique à votre formation. Je suis déterminé à m'investir pleinement dans ce cursus et à contribuer activement aux projets et travaux de recherche proposés.
+
+Je reste à votre disposition pour tout complément d'information et serais ravi de pouvoir discuter de mon projet et de mes motivations lors d'un entretien.
+
+Dans l'attente de votre réponse, je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
+
+SAID AHRIKENCHIKH
+Village Abizar, Tizi Ouzou, Algérie
+Email : Berbersoft@gmail.com
+Téléphone : +213 560 117 221
+

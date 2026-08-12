@@ -1,0 +1,26 @@
+// Ne pas inclure l'import
+
+def assetDir = new File(projectDir, "src/main/assets")
+assetDir.mkdirs()
+
+task downloadGestureModel(type: Download) {
+    src 'https://storage.googleapis.com/mediapipe-models/gesture_recognizer/gesture_recognizer/float16/1/gesture_recognizer.task'
+    dest new File(assetDir, "gesture_recognizer.task")
+    overwrite true  // Forcer le téléchargement
+    useETag true    // Utiliser ETag pour la vérification
+    retries 3       // Nombre de tentatives en cas d'échec
+}
+
+preBuild.dependsOn downloadGestureModel
+
+// Ajouter une tâche de vérification
+task verifyModelFile {
+    doLast {
+        def modelFile = new File(assetDir, "gesture_recognizer.task")
+        if (!modelFile.exists() || modelFile.length() == 0) {
+            throw new GradleException("Le fichier gesture_recognizer.task est manquant ou vide!")
+        }
+    }
+}
+
+build.dependsOn verifyModelFile 

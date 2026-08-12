@@ -1,0 +1,28 @@
+{
+  "model": "claude-3-7-sonnet",
+  "temperature": 0.7,
+  "topP": 0.95,
+  "maxTokens": 4000,
+  "stopSequences": [],
+  "responseFormat": {
+    "type": "text"
+  },
+  "tools": {
+    "gestureRecognition": {
+      "enabled": true,
+      "confidence": 0.5,
+      "minHandDetectionConfidence": 0.5,
+      "minHandPresenceConfidence": 0.5,
+      "minTrackingConfidence": 0.5
+    },
+    "translation": {
+      "enabled": true,
+      "supportedLanguages": ["fr", "en", "es", "de", "it", "ar"]
+    }
+  },
+  "codeGeneration": {
+    "language": "swift",
+    "platform": "ios",
+    "alternativePlatform": "android"
+  }
+} 

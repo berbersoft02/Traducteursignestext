@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sign Language Translator</string>
+    <string name="created_by">Created by Saïd_ahriken</string>
+    <string name="sign_to_text">Sign language to text</string>
+    <string name="voice_to_sign">Voice to sign language</string>
+    <string name="camera_permission_required">Camera permission required</string>
+    <string name="start_camera">Start camera</string>
+    <string name="start_voice">Speak now</string>
+    <string name="enter_text">Tap to speak</string>
+</resources> 

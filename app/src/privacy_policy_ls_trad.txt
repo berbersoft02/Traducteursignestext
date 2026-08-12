@@ -1,0 +1,45 @@
+Politique de confidentialité
+
+Dernière mise à jour : 20/07/2025
+
+1. Introduction
+
+Votre vie privée est importante pour nous. Cette application ("LS Trad") respecte et protège la confidentialité de ses utilisateurs. Cette politique explique quelles données sont collectées, comment elles sont utilisées et vos droits concernant ces données.
+
+2. Données collectées
+
+- Aucune donnée personnelle n’est collectée par défaut (nom, email, adresse, etc.).
+- L’application peut demander l’accès à la caméra et au microphone uniquement pour permettre la traduction des gestes et de la voix. Ces données ne sont ni stockées, ni partagées, ni transmises à des tiers.
+- Des données d’utilisation anonymes (ex : nombre d’utilisations, erreurs) peuvent être collectées pour améliorer l’application, sans identification de l’utilisateur.
+
+3. Utilisation des données
+
+- Les accès à la caméra et au micro servent uniquement au fonctionnement de la traduction en temps réel.
+- Les données anonymes servent à améliorer la qualité et la stabilité de l’application.
+
+4. Partage des données
+
+- Aucune donnée personnelle n’est partagée avec des tiers.
+- Les données anonymes peuvent être utilisées à des fins de statistiques internes.
+
+5. Sécurité
+
+- L’application ne stocke aucune donnée sensible sur l’appareil ou sur des serveurs externes.
+- Les permissions sont demandées uniquement lorsque cela est nécessaire.
+
+6. Enfants
+
+- L’application est adaptée à tous publics, y compris les enfants de moins de 13 ans.
+- Aucune collecte de données personnelles n’est effectuée auprès des enfants.
+
+7. Vos droits
+
+- Vous pouvez à tout moment désinstaller l’application pour supprimer toute donnée locale.
+- Pour toute question, contactez-nous à : berbersoft@gmail.com
+
+8. Modifications
+
+Cette politique peut être mise à jour. Toute modification sera affichée dans cette section.
+
+Contact
+Pour toute question concernant la confidentialité, contactez : berbersoft@gmail.com 
