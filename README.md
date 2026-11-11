@@ -25,12 +25,12 @@ A demo video is included in the app (see the Voice to Sign and Gesture Training 
 ## Dataset and training
 
 - ~3,000 labelled hand-gesture images gathered and processed with Python scripts
-- Model trained with MediaPipe Model Maker, then exported for on-device inference
+- Model trained on Google Colab (Python), then exported for on-device inference in the Android app
 - Accuracy above 90% on our evaluation set
 
 ## Tech stack
 
-Kotlin, Jetpack Compose, CameraX, MediaPipe, Material Design 3, Android TTS, MVVM. Min SDK 26, target SDK 34.
+Kotlin, Jetpack Compose, CameraX, MediaPipe, Material Design 3, Android TTS, MVVM. Python and Google Colab for dataset preparation and training. Min SDK 26, target SDK 34.
 
 ## Run it
 
