@@ -17,3 +17,4 @@ local.properties
 .claude/
 .idea/
 app/release/
+*.lnk

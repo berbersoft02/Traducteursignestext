@@ -508,10 +508,13 @@ fun TutorialVideo(onClose: () -> Unit) {
     var showReplay by remember { mutableStateOf(false) }
     val exoPlayer = remember {
         ExoPlayer.Builder(context).build().apply {
-            val mediaItem = MediaItem.fromUri("android.resource://${context.packageName}/${R.raw.tutoriel}")
-            setMediaItem(mediaItem)
-            repeatMode = ExoPlayer.REPEAT_MODE_OFF
-            prepare()
+            val resId = context.resources.getIdentifier("tutoriel", "raw", context.packageName)
+            if (resId != 0) {
+                val mediaItem = MediaItem.fromUri("android.resource://${context.packageName}/$resId")
+                setMediaItem(mediaItem)
+                repeatMode = ExoPlayer.REPEAT_MODE_OFF
+                prepare()
+            }
         }
     }
     DisposableEffect(exoPlayer) {
