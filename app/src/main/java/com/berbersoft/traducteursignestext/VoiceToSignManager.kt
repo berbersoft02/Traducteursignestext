@@ -481,8 +481,8 @@ object SignDictionary {
             "qui" -> "qui"
             "quoi" -> "quoi"
             "tu as faim" -> "tuasfaim"
-            "tu m'accompagnes" -> "tumaccompagne"
-            "tu peux signer lentement" -> "tupeuxsignerlentemnt"
+            "tu m'accompagnes" -> "tumaccomapgnes"
+            "tu peux signer lentement" -> "tupeuxsignerlentement"
             "meilleur" -> "meilleur"
             "tous les mois" -> "toutlesmois"
             "c'est dommage" -> "cestdommage"
@@ -498,7 +498,7 @@ object SignDictionary {
             "ce n'est pas bon" -> "cenestpasbon"
             "c'est bon" -> "cestbon"
             "ça suffit" -> "casuffit"
-            else -> throw IllegalArgumentException("Pas de vidéo pour ce mot: $word")
+            else -> word.lowercase().filter { it.isLetterOrDigit() }
         }
     }
 
