@@ -8,7 +8,8 @@ Native Android app that translates sign language into text and speech in real ti
 - Custom-trained MediaPipe Gesture Recognizer, **>90% accuracy**
 - Custom dataset of **~3,000 images**, collected and prepared with Python scripts
 - Algerian and French sign language alphabets (largely similar)
-- Voice/text to sign: video library for letters, numbers and common phrases
+- Voice/text to sign: `SignTranslationEngine` with sentence tokenization, greedy multi-word phrase matching, fingerspelling (dactylologie) fallback, and `SignSequencePlayer` state controller
+- Sign video and image dictionary for letters, numbers, and common expressions
 - Gesture training mode, UI in French, English and Kabyle
 
 ## Demo

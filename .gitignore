@@ -18,3 +18,5 @@ local.properties
 .idea/
 app/release/
 *.lnk
+app/src/main/res/raw/
+
